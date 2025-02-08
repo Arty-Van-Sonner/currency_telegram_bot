@@ -15,3 +15,4 @@ For this project you need to have libs:
 •	sqlite3
 •	time
 •	telebot
+•	pandas
